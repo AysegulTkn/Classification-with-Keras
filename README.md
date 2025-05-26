@@ -1,4 +1,4 @@
-# Concrete Crack Image -Classification in Keras
+# Concrete Crack Image Classification in Keras
 
 In this project we are building an image classifier using the VGG16 pre-trained model and evaluating it. <br>
 During this project we will use the data set "Concrete Crack Images for Classification". <br>
